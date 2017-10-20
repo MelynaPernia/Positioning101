@@ -1,0 +1,28 @@
+p {
+  display: inline-block;
+  padding: 10px;
+  background-color: rgb(205, 184, 40);
+  color: rgb(0, 0, 0);
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: center;
+}
+
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration:none;
+  color:#0e0e0e;
+}
+
+a:active {
+  text-decoration:none;
+  color:#ff0000;
+}
+
+a:hover {
+  text-decoration:none;
+  color:#ebe810;
+}
